@@ -1,4 +1,4 @@
-# Nupoor's QA Learning Log 📖
+# Nupoor's QA Log 📖
 
 ### 🚀 Documenting my journey to becoming a Software Quality Assurance Engineer.
 
