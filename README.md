@@ -38,11 +38,4 @@ This is where I apply everything I'm learning.
     *This is the central hub of my learning journey. It contains documentation, test cases, and notes that reflect my progress in QA fundamentals, system testing, and more.*
 
 
----
-
-### **📈 My GitHub Stats**
-
-[![Nupoor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nupoork-qa&show_icons=true&theme=tokyonight&hide_rank=true)](https://github.com/nupoork-qa)
-
----
 
